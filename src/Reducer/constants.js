@@ -1,0 +1,5 @@
+export const GET_CURRENT_USER = 'GET_CURRENT_USER';
+export const GET_ALL_POSTS = 'GET_ALL_POSTS';
+export const CREATE_A_POSTS = 'CREATE_A_POSTS';
+export const UPDATE_A_POSTS = 'UPDATE_A_POSTS';
+export const DELETE_A_POSTS = 'DELETE_A_POSTS';
